@@ -13,7 +13,7 @@ In this project, we're going to work with data from the Survey of Consumer Finan
 ## Colab Demo of Dynamic Web Application (Dashboard)
 You can try it using Colab
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MeerAli1472/Customer-Segmentation/blob/main/Interactive%20Dashboard.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MeerAli1472/Customer-Segmentation/blob/Interactive%20Dashboard.ipynb)
 
 
 ## Process Overview
